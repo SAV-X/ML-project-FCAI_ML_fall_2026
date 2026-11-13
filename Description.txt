@@ -1,0 +1,18 @@
+~ Machine Learning project/ Fall_2026 / Under supervision of Prof. Dr. Gamal Behery~
+
+-Project team:
+  Mariam Bahaa Elmeshad / CS department
+  Nada Hamada / CS department
+  Anas Tarek Oraby / CS department
+
+-Project idea:
+  A machine learning system help to proactive prediction of fire disasters via learning the factors which leads to it.
+
+-Techniques used:
+  Supervised learning: Linear regression and classification 
+
+-Data used:
+  We collected fire-related data from different reliable sources about the nature parameters in USA.
+
+
+
